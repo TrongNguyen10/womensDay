@@ -43,6 +43,8 @@ export const CONFIG = {
       "./assets/photos/photo16.png",
       "./assets/photos/photo17.png",
       "./assets/photos/photo18.png",
+      "./assets/photos/photo19.png",
+      "./assets/photos/photo20.png",
     ],
     count: 18,
   },

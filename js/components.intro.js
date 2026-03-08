@@ -10,7 +10,7 @@ export function createIntroScreen({ onStart }) {
   // Người dùng có thể thay hình bên trong bằng cách sửa src bên dưới.
   const bouquetImg = createElement("img", {
     attrs: {
-      src: "./assets/photos/bouquet.png",
+      src: "./assets/photos/me.jpg",
       alt: "Bouquet",
     },
   });

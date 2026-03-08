@@ -23,7 +23,7 @@ body {
 
 body.no-scroll {
   overflow: hidden;
-  /* touch-action: none; */
+  touch-action: none;
 }
 
 *,

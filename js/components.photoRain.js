@@ -126,8 +126,8 @@ export function createPhotoRain({ onPhotoClick } = {}) {
     });
 
     const left = 6 + Math.random() * 78;
-    const delay = Math.random() * 4;
-    const duration = 12 + Math.random() * 10;
+    const delay = Math.random() * 12;
+    const duration = 16 + Math.random() * 14;
     const tilt = -20 + Math.random() * 40;
 
     wrapper.style.left = `${left}%`;
